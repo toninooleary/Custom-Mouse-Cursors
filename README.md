@@ -30,7 +30,11 @@ Mouse cursors created using Aseprite. The repository includes cursors in formats
 |<img width="360" alt="info" src="./preview_images/caret_pig_v2.png">  Caret variation 1 |  <img width="360" alt="info" src="./preview_images/caret_pig_v3.png"> Caret variation 2 |<img width="360" alt="info" src="./preview_images/pointer_pig.png"> Pointer |
 |<img width="360" alt="info" src="./preview_images/linkpointer_pig.png"> Link pointer variation 1 |  <img width="360" alt="info" src="./preview_images/linkpointer_pig_rude.png"> Link pointer variation 2 |
 
-## Simplistic
+## Simplistic (Alpha Channel - 123)
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="360" alt="info" src="./preview_images/caret_blue.png">  Caret blue |  <img width="360" alt="info" src="./preview_images/caret_white.png"> Caret white | <img width="360" alt="info" src="./preview_images/pointer_blue.png"> Pointer blue |
+| <img width="360" alt="info" src="./preview_images/pointer_white.png"> Pointer white |  <img width="360" alt="info" src="./preview_images/linkpointer_blue.png"> Link pointer blue |  <img width="360" alt="info" src="./preview_images/linkpointer_white.png"> Link pointer white | 
 
 ## Clown ('Pig' variation)
 
