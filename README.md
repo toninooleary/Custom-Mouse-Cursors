@@ -20,15 +20,15 @@ Mouse cursors created using Aseprite. The repository includes cursors in formats
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="360" alt="info" src="./preview_images/caret_iguro.png">  Caret |  <img width="360" alt="info" src="./preview_images/pointer_iguro_ver1.png"> Pointer variation 1 |<img width="360" alt="info" src="./preview_images/pointer_iguro_ver2.png"> Pointer variation 2|
-|<img width="360" alt="info" src="./preview_images/pointer_iguro_ver3.png"> Pointer variation 3 |  <img width="360" alt="info" src="./preview_images/pointer_iguro_ver4.png"> Pointer variation 4|<img width="360" alt="info" src="./preview_images/linkpointer_iguro.png"> Link Pointer|
+|<img width="360" alt="info" src="./preview_images/caret_iguro.png">  Caret | <img width="360" alt="info" src="./preview_images/pointer_iguro_ver1.png"> Pointer variation 1 | <img width="360" alt="info" src="./preview_images/pointer_iguro_ver2.png"> Pointer variation 2 |
+| <img width="360" alt="info" src="./preview_images/pointer_iguro_ver3.png"> Pointer variation 3 | <img width="360" alt="info" src="./preview_images/pointer_iguro_ver4.png"> Pointer variation 4 | <img width="360" alt="info" src="./preview_images/linkpointer_iguro.png"> Link pointer |
 |<img width="360" alt="info" src="./preview_images/loading_iguro.gif"> Loading/waiting cursor variation 1 |  <img width="360" alt="info" src="./preview_images/loading_crosshair_iguro.gif"> Loading/waiting cursor variation 2 |
 
 ## Piggy Pointer
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="360" alt="info" src="./preview_images/caret_pig_v2.png">  Caret variation 1 |  <img width="360" alt="info" src="./preview_images/caret_pig_v3.png"> Caret variation 2 |<img width="360" alt="info" src="./preview_images/pointer_pig.png"> Pointer |
-|<img width="360" alt="info" src="./preview_images/linkpointer_pig.png"> Link pointer variation 1 |  <img width="360" alt="info" src="./preview_images/linkpointer_pig_rude.png"> Link pointer variation 2 |
+| <img width="360" alt="info" src="./preview_images/caret_pig_v2.png">  Caret variation 1 | <img width="360" alt="info" src="./preview_images/caret_pig_v3.png"> Caret variation 2 | <img width="360" alt="info" src="./preview_images/pointer_pig.png"> Pointer |
+| <img width="360" alt="info" src="./preview_images/linkpointer_pig.png"> Link pointer variation 1 | <img width="360" alt="info" src="./preview_images/linkpointer_pig_rude.png"> Link pointer variation 2 |
 
 ## Simplistic (Alpha Channel - 123)
 | | | |
