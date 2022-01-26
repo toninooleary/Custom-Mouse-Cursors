@@ -44,5 +44,5 @@ Mouse cursors created using Aseprite. The repository includes cursors in formats
 ## Other
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="360" alt="info" src="./preview_images/pointer_crosshair.png"> Pointer Crosshair |  <img width="360" alt="info" src="./preview_images/linkpointer_crosshair.png"> Link Pointer crosshair | <img width="360" alt="info" src="./preview_images/linkpointer_triangle_v1.png"> Link Pointer triangle variation 1 |
-| <img width="360" alt="info" src="./preview_images/linkpointer_triangle_v2.png"> Link Pointer triangle variation 2 |  <img width="360" alt="info" src="./preview_images/pointer_square.png"> Pointer square|
+|<img width="360" alt="info" src="./preview_images/pointer_crosshair.png"> Pointer Crosshair |  <img width="360" alt="info" src="./preview_images/linkpointer_crosshair.png"> Link Pointer crosshair | <img width="360" alt="info" src="./preview_images/pointer_triangle_v1.png"> Pointer triangle variation 1 |
+| <img width="360" alt="info" src="./preview_images/pointer_triangle_v2.png"> Pointer triangle variation 2 |  <img width="360" alt="info" src="./preview_images/pointer_square.png"> Pointer square|
